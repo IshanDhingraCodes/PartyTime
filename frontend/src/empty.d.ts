@@ -1,0 +1,1 @@
+// This file is only here to satisfy TypeScript for shadcn/ui in a JS project.
